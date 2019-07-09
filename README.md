@@ -3,11 +3,7 @@ Test smee webhook
 
 Maybe this time
 
-Mark
 
-Chaisson
-
-Bla
 
 Testing
 
