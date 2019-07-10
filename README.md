@@ -11,3 +11,4 @@ Test dispatch to action
 Test dispatch to action
 
 Test specific type
+Test specific type
