@@ -5,10 +5,7 @@ Testing8
 
 I'll create anotehr file
 
-Test dispatch to action
-Test dispatch to action
-Test dispatch to action
-Test dispatch to action
+
 
 Test specific type
 Test Node.js again again
