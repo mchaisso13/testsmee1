@@ -2,6 +2,6 @@
 Test smee webhook
 
 More
-STUFF HA HA
+STUFF HA
 HA
 
